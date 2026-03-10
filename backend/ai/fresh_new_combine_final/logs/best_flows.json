@@ -1,0 +1,31 @@
+[
+    [
+        "name",
+        "phone",
+        "symptom_detail",
+        "severity",
+        "pain",
+        "duration",
+        "impact",
+        "insurance",
+        "intent"
+    ],
+    [
+        "name",
+        "phone",
+        "symptom_detail",
+        "severity",
+        "duration",
+        "pain",
+        "impact",
+        "worsening",
+        "red_flag",
+        "prior_history",
+        "current_treatment",
+        "insurance",
+        "appointment_intent",
+        "consultation_type",
+        "time_urgency",
+        "booking_readiness"
+    ]
+]

@@ -1,0 +1,1212 @@
+[
+    {
+        "booking_id": "CONF-L001-Pri-1-12:00 PM",
+        "patient_name": "swetha",
+        "contact": "9899978332",
+        "doctor_name": "Dr. Priya Menon",
+        "service_provided": "Cardiology",
+        "date": "2026-03-11",
+        "time": "12:00 PM",
+        "status": "upcoming"
+    },
+    {
+        "lead_id": "L001",
+        "service": "Cardiology",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "swetha",
+            "phone": "9899978332",
+            "symptom_detail": "i have been having slight pain in my heart",
+            "severity": "mild",
+            "pain": "low",
+            "duration": "days ago",
+            "impact": "somewhat",
+            "insurance": "no",
+            "intent": "yes"
+        },
+        "score": "Hot",
+        "outcome": "converted",
+        "timestamp": "2026-03-10 10:39:29.845046"
+    },
+    {
+        "booking_id": "CONF-L001-Ani-0-10:00 AM",
+        "patient_name": "roshan",
+        "contact": "8989978787",
+        "doctor_name": "Dr. Anita Rao",
+        "service_provided": "General",
+        "date": "2026-03-10",
+        "time": "10:00 AM",
+        "status": "upcoming"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "roshan",
+            "phone": "8989978787",
+            "symptom_detail": "i have tooth ache",
+            "severity": "severe",
+            "pain": "high",
+            "duration": "today",
+            "impact": "cannot",
+            "insurance": "es",
+            "intent": "yes"
+        },
+        "score": "Hot",
+        "outcome": "converted",
+        "timestamp": "2026-03-10 10:40:32.322360"
+    },
+    {
+        "patient_name": "malathi",
+        "contact": "9699978777",
+        "service": "General",
+        "action": "information_pack_sent",
+        "follow_up_call_in_days": 2,
+        "status": "follow_up_scheduled"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "malathi",
+            "phone": "9699978777",
+            "symptom_detail": "i have leg pain",
+            "severity": "severe",
+            "pain": "medium",
+            "duration": "today",
+            "impact": "no",
+            "insurance": "yes",
+            "intent": "yes"
+        },
+        "score": "Warm",
+        "outcome": "lost",
+        "timestamp": "2026-03-10 10:41:21.953303"
+    },
+    {
+        "booking_id": "CONF-L001-Ani-0-12:00 PM",
+        "patient_name": "ram",
+        "contact": "7767790909",
+        "doctor_name": "Dr. Anita Rao",
+        "service_provided": "General",
+        "date": "2026-03-10",
+        "time": "12:00 PM",
+        "status": "upcoming"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "ram",
+            "phone": "7767790909",
+            "symptom_detail": "i have nail pain",
+            "severity": "severe",
+            "pain": "high",
+            "duration": "today",
+            "impact": "cannot",
+            "insurance": "no",
+            "intent": "yes"
+        },
+        "score": "Hot",
+        "outcome": "converted",
+        "timestamp": "2026-03-10 10:42:48.707034"
+    },
+    {
+        "patient_name": "dheeraj",
+        "contact": "8989800000",
+        "service": "General",
+        "action": "information_pack_sent",
+        "follow_up_call_in_days": 2,
+        "status": "follow_up_scheduled"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "dheeraj",
+            "phone": "8989800000",
+            "symptom_detail": "i have to take blood test",
+            "severity": "mild",
+            "pain": "mmedium",
+            "duration": "days ago",
+            "impact": "somewhat",
+            "insurance": "no",
+            "intent": "later"
+        },
+        "score": "Warm",
+        "outcome": "lost",
+        "timestamp": "2026-03-10 10:43:58.931807"
+    },
+    {
+        "booking_id": "CONF-L001-Ani-0-3:00 PM",
+        "patient_name": "lakshmi",
+        "contact": "7778899988",
+        "doctor_name": "Dr. Anita Rao",
+        "service_provided": "General",
+        "date": "2026-03-10",
+        "time": "3:00 PM",
+        "status": "upcoming"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "lakshmi",
+            "phone": "7778899988",
+            "symptom_detail": "i have hand alergy",
+            "severity": "moderate",
+            "pain": "medium",
+            "duration": "days ago",
+            "impact": "somewhat",
+            "insurance": "no",
+            "intent": "later"
+        },
+        "score": "Hot",
+        "outcome": "converted",
+        "timestamp": "2026-03-10 10:44:56.775371"
+    },
+    {
+        "patient_name": "prema",
+        "contact": "9990099900",
+        "service": "General",
+        "action": "information_pack_sent",
+        "follow_up_call_in_days": 2,
+        "status": "follow_up_scheduled"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "prema",
+            "phone": "9990099900",
+            "symptom_detail": "i have a mild headache",
+            "severity": "mild",
+            "pain": "low",
+            "duration": "months ago",
+            "impact": "no",
+            "insurance": "no",
+            "intent": "no"
+        },
+        "score": "Warm",
+        "outcome": "lost",
+        "timestamp": "2026-03-10 10:45:58.016696"
+    },
+    {
+        "patient_name": "sneha",
+        "contact": "9339383338",
+        "service": "General",
+        "action": "information_pack_sent",
+        "follow_up_call_in_days": 2,
+        "status": "follow_up_scheduled"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "sneha",
+            "phone": "9339383338",
+            "symptom_detail": "i have period cramps",
+            "severity": "mild",
+            "pain": "low",
+            "duration": "months ago",
+            "impact": "no",
+            "insurance": "no",
+            "intent": "no i want information only"
+        },
+        "score": "Warm",
+        "outcome": "lost",
+        "timestamp": "2026-03-10 10:47:07.644747"
+    },
+    {
+        "patient_name": "sreedevi",
+        "contact": "9899978777",
+        "service": "General",
+        "action": "information_pack_sent",
+        "follow_up_call_in_days": 2,
+        "status": "follow_up_scheduled"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "sreedevi",
+            "phone": "9899978777",
+            "symptom_detail": "i have cold",
+            "severity": "mild",
+            "pain": "low",
+            "duration": "monthsago",
+            "impact": "no",
+            "insurance": "no",
+            "intent": "yes"
+        },
+        "score": "Warm",
+        "outcome": "lost",
+        "timestamp": "2026-03-10 10:48:12.646667"
+    },
+    {
+        "patient_name": "akshaya",
+        "contact": "8900090888",
+        "service": "General",
+        "action": "nurture_sequence",
+        "next_message_in_days": 2,
+        "status": "nurture_active"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "akshaya",
+            "phone": "8900090888",
+            "symptom_detail": "i have hand pain",
+            "severity": "mild",
+            "pain": "low",
+            "duration": "today",
+            "impact": "no",
+            "insurance": "no",
+            "intent": "no just asking for infomation"
+        },
+        "score": "Cold",
+        "outcome": "lost",
+        "timestamp": "2026-03-10 10:49:03.575652"
+    },
+    {
+        "patient_name": "prithika",
+        "contact": "8988809000",
+        "service": "General",
+        "action": "nurture_sequence",
+        "next_message_in_days": 2,
+        "status": "nurture_active"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "prithika",
+            "phone": "8988809000",
+            "symptom_detail": "i have a tooth ache",
+            "severity": "mild",
+            "pain": "low",
+            "duration": "today",
+            "impact": "no",
+            "insurance": "no",
+            "intent": "no"
+        },
+        "score": "Cold",
+        "outcome": "lost",
+        "timestamp": "2026-03-10 10:49:48.439280"
+    },
+    {
+        "patient_name": "padu",
+        "contact": "898978787",
+        "service": "General",
+        "action": "nurture_sequence",
+        "next_message_in_days": 2,
+        "status": "nurture_active"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "padu",
+            "phone": "898978787",
+            "symptom_detail": "i have  headache",
+            "severity": "mild",
+            "pain": "low",
+            "duration": "today",
+            "impact": "no",
+            "insurance": "no",
+            "intent": "no"
+        },
+        "score": "Cold",
+        "outcome": "lost",
+        "timestamp": "2026-03-10 10:50:42.143777"
+    },
+    {
+        "booking_id": "CONF-L001-Ani-1-10:00 AM",
+        "patient_name": "aditi",
+        "contact": "9899987444",
+        "doctor_name": "Dr. Anita Rao",
+        "service_provided": "General",
+        "date": "2026-03-11",
+        "time": "10:00 AM",
+        "status": "upcoming"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "aditi",
+            "phone": "9899987444",
+            "symptom_detail": "i have a blister",
+            "severity": "moderate",
+            "pain": "medium",
+            "duration": "days ago",
+            "impact": "somewhat",
+            "insurance": "no",
+            "intent": "yea in 2 days"
+        },
+        "score": "Hot",
+        "outcome": "converted",
+        "timestamp": "2026-03-10 10:51:27.379854"
+    },
+    {
+        "patient_name": "eshika",
+        "contact": "67666687888",
+        "service": "General",
+        "action": "information_pack_sent",
+        "follow_up_call_in_days": 2,
+        "status": "follow_up_scheduled"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "eshika",
+            "phone": "67666687888",
+            "symptom_detail": "i have a rash",
+            "severity": "mild",
+            "pain": "low",
+            "duration": "days ago",
+            "impact": "somewhat",
+            "insurance": "no",
+            "intent": "in a week"
+        },
+        "score": "Warm",
+        "outcome": "lost",
+        "timestamp": "2026-03-10 10:52:21.466105"
+    },
+    {
+        "patient_name": "harsha",
+        "contact": "9099989888",
+        "service": "General",
+        "action": "nurture_sequence",
+        "next_message_in_days": 2,
+        "status": "nurture_active"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "harsha",
+            "phone": "9099989888",
+            "symptom_detail": "i have a tooth ache",
+            "severity": "mild",
+            "pain": "low",
+            "duration": "today",
+            "impact": "no",
+            "insurance": "no",
+            "intent": "no"
+        },
+        "score": "Cold",
+        "outcome": "lost",
+        "timestamp": "2026-03-10 10:53:18.591837"
+    },
+    {
+        "patient_name": "ayush",
+        "contact": "8900098777",
+        "service": "General",
+        "action": "information_pack_sent",
+        "follow_up_call_in_days": 2,
+        "status": "follow_up_scheduled"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "ayush",
+            "phone": "8900098777",
+            "symptom_detail": "i have a skin problem",
+            "severity": "moderate",
+            "pain": "medium",
+            "duration": "days ago",
+            "impact": "no",
+            "insurance": "no",
+            "intent": "yea"
+        },
+        "score": "Warm",
+        "outcome": "lost",
+        "timestamp": "2026-03-10 10:54:01.882111"
+    },
+    {
+        "booking_id": "CONF-L001-Ani-1-12:00 PM",
+        "patient_name": "apoorv",
+        "contact": "9998800003",
+        "doctor_name": "Dr. Anita Rao",
+        "service_provided": "General",
+        "date": "2026-03-11",
+        "time": "12:00 PM",
+        "status": "upcoming"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "apoorv",
+            "phone": "9998800003",
+            "symptom_detail": "i have eye pain",
+            "severity": "moderate",
+            "pain": "medium",
+            "duration": "days ago",
+            "impact": "somewhat",
+            "insurance": "no",
+            "intent": "yes"
+        },
+        "score": "Hot",
+        "outcome": "converted",
+        "timestamp": "2026-03-10 10:55:10.863917"
+    },
+    {
+        "booking_id": "CONF-L001-Ani-1-3:00 PM",
+        "patient_name": "Suvan",
+        "contact": "91208430438",
+        "doctor_name": "Dr. Anita Rao",
+        "service_provided": "General",
+        "date": "2026-03-11",
+        "time": "3:00 PM",
+        "status": "upcoming"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "Suvan",
+            "phone": "91208430438",
+            "symptom_detail": "Uhmm not feeling well, tire",
+            "severity": "mild",
+            "pain": "low",
+            "duration": "days ago",
+            "impact": "somewhat",
+            "insurance": "no",
+            "intent": "yes"
+        },
+        "score": "Hot",
+        "outcome": "converted",
+        "timestamp": "2026-03-10 11:29:37.804424"
+    },
+    {
+        "patient_name": "Suvan",
+        "contact": "91538043043",
+        "service": "General",
+        "action": "nurture_sequence",
+        "next_message_in_days": 2,
+        "status": "nurture_active"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "Suvan",
+            "phone": "91538043043",
+            "symptom_detail": "Little headache",
+            "severity": "mild",
+            "pain": "low",
+            "duration": "hours",
+            "impact": "no",
+            "insurance": "no",
+            "intent": "Heavy headache since yesterday"
+        },
+        "score": "Cold",
+        "outcome": "lost",
+        "timestamp": "2026-03-10 11:59:25.500210"
+    },
+    {
+        "patient_name": "Suvan",
+        "contact": "92340324",
+        "service": "General",
+        "action": "information_pack_sent",
+        "follow_up_call_in_days": 2,
+        "status": "follow_up_scheduled"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "Suvan",
+            "phone": "92340324",
+            "symptom_detail": "Severe chest pain",
+            "severity": "severe",
+            "pain": "high",
+            "duration": "hours",
+            "impact": "cannot",
+            "insurance": "yes",
+            "intent": "yes"
+        },
+        "score": "Warm",
+        "outcome": "lost",
+        "timestamp": "2026-03-10 12:01:42.269310"
+    },
+    {
+        "patient_name": "Suvan",
+        "contact": "234234",
+        "service": "General",
+        "action": "nurture_sequence",
+        "next_message_in_days": 2,
+        "status": "nurture_active"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "Suvan",
+            "phone": "234234",
+            "symptom_detail": "headache",
+            "severity": "mild",
+            "pain": "low",
+            "duration": "hourse",
+            "impact": "no",
+            "insurance": "no",
+            "intent": "yes"
+        },
+        "score": "Cold",
+        "outcome": "lost",
+        "timestamp": "2026-03-10 12:03:29.278866"
+    },
+    {
+        "patient_name": "Suvan",
+        "contact": "915085558585",
+        "service": "General",
+        "action": "nurture_sequence",
+        "next_message_in_days": 2,
+        "status": "nurture_active"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "duration",
+            "pain",
+            "impact",
+            "worsening",
+            "red_flag",
+            "prior_history",
+            "current_treatment",
+            "insurance",
+            "appointment_intent",
+            "consultation_type",
+            "time_urgency",
+            "booking_readiness"
+        ],
+        "answers": {
+            "name": "Suvan",
+            "phone": "915085558585",
+            "symptom_detail": "Mild headache",
+            "severity": "mild",
+            "duration": "hours",
+            "pain": "low",
+            "impact": "no",
+            "worsening": "no",
+            "red_flag": "no",
+            "prior_history": "no",
+            "current_treatment": "no",
+            "insurance": "no",
+            "appointment_intent": "maybe",
+            "consultation_type": "online",
+            "time_urgency": "this week",
+            "booking_readiness": "no"
+        },
+        "score": "Cold",
+        "outcome": "lost",
+        "timestamp": "2026-03-10 12:08:26.153834"
+    },
+    {
+        "patient_name": "sdgfdsdsg",
+        "contact": "232342342",
+        "service": "General",
+        "action": "information_pack_sent",
+        "follow_up_call_in_days": 2,
+        "status": "follow_up_scheduled"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "sdgfdsdsg",
+            "phone": "232342342",
+            "symptom_detail": "Knee pain after playing football",
+            "severity": "moderate",
+            "pain": "medium",
+            "duration": "days",
+            "impact": "somewhat",
+            "insurance": "yes",
+            "intent": "maybe"
+        },
+        "score": "Warm",
+        "outcome": "lost",
+        "timestamp": "2026-03-10 12:10:05.996763"
+    },
+    {
+        "patient_name": "Suvan",
+        "contact": "23423432423",
+        "service": "General",
+        "action": "information_pack_sent",
+        "follow_up_call_in_days": 2,
+        "status": "follow_up_scheduled"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "Suvan",
+            "phone": "23423432423",
+            "symptom_detail": "Severe chest pain",
+            "severity": "severe",
+            "pain": "high",
+            "duration": "hours",
+            "impact": "cannot",
+            "insurance": "yes",
+            "intent": "yes"
+        },
+        "score": "Warm",
+        "outcome": "lost",
+        "timestamp": "2026-03-10 12:10:57.817856"
+    },
+    {
+        "patient_name": "Suvan",
+        "contact": "92343232432",
+        "service": "General",
+        "action": "nurture_sequence",
+        "next_message_in_days": 2,
+        "status": "nurture_active"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "pain",
+            "duration",
+            "impact",
+            "insurance",
+            "intent"
+        ],
+        "answers": {
+            "name": "Suvan",
+            "phone": "92343232432",
+            "symptom_detail": "Mild headache",
+            "severity": "mild",
+            "pain": "low",
+            "duration": "hours",
+            "impact": "no",
+            "insurance": "no",
+            "intent": "maybe"
+        },
+        "score": "Cold",
+        "outcome": "lost",
+        "timestamp": "2026-03-10 12:11:34.757543"
+    },
+    {
+        "patient_name": "Suvan",
+        "contact": "99150858585",
+        "service": "General",
+        "action": "nurture_sequence",
+        "next_message_in_days": 2,
+        "status": "nurture_active"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "duration",
+            "pain",
+            "impact",
+            "worsening",
+            "red_flag",
+            "prior_history",
+            "current_treatment",
+            "insurance",
+            "appointment_intent",
+            "consultation_type",
+            "time_urgency",
+            "booking_readiness"
+        ],
+        "answers": {
+            "name": "Suvan",
+            "phone": "99150858585",
+            "symptom_detail": "Mild headache",
+            "severity": "mild",
+            "duration": "hours",
+            "pain": "low",
+            "impact": "no",
+            "worsening": "no",
+            "red_flag": "no",
+            "prior_history": "no",
+            "current_treatment": "no",
+            "insurance": "no",
+            "appointment_intent": "maybe",
+            "consultation_type": "online",
+            "time_urgency": "this week",
+            "booking_readiness": "no"
+        },
+        "score": "Cold",
+        "outcome": "lost",
+        "timestamp": "2026-03-10 12:19:06.124851"
+    },
+    {
+        "patient_name": "Sahana",
+        "contact": "913434234",
+        "service": "General",
+        "action": "information_pack_sent",
+        "follow_up_call_in_days": 2,
+        "status": "follow_up_scheduled"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "duration",
+            "pain",
+            "impact",
+            "worsening",
+            "red_flag",
+            "prior_history",
+            "current_treatment",
+            "insurance",
+            "appointment_intent",
+            "consultation_type",
+            "time_urgency",
+            "booking_readiness"
+        ],
+        "answers": {
+            "name": "Sahana",
+            "phone": "913434234",
+            "symptom_detail": "Knee pain after playing football",
+            "severity": "moderate",
+            "duration": "days",
+            "pain": "medium",
+            "impact": "somewhat",
+            "worsening": "yes",
+            "red_flag": "no",
+            "prior_history": "no",
+            "current_treatment": "no",
+            "insurance": "yes",
+            "appointment_intent": "maybe",
+            "consultation_type": "in-person",
+            "time_urgency": "this week",
+            "booking_readiness": "maybe"
+        },
+        "score": "Warm",
+        "outcome": "lost",
+        "timestamp": "2026-03-10 12:20:10.343892"
+    },
+    {
+        "patient_name": "Gurhoshiaa",
+        "contact": "9234324232",
+        "service": "General",
+        "action": "information_pack_sent",
+        "follow_up_call_in_days": 2,
+        "status": "follow_up_scheduled"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "duration",
+            "pain",
+            "impact",
+            "worsening",
+            "red_flag",
+            "prior_history",
+            "current_treatment",
+            "insurance",
+            "appointment_intent",
+            "consultation_type",
+            "time_urgency",
+            "booking_readiness"
+        ],
+        "answers": {
+            "name": "Gurhoshiaa",
+            "phone": "9234324232",
+            "symptom_detail": "Severe chest pain",
+            "severity": "severe",
+            "duration": "hours",
+            "pain": "high",
+            "impact": "cannot",
+            "worsening": "yes",
+            "red_flag": "yes",
+            "prior_history": "yes",
+            "current_treatment": "no",
+            "insurance": "yes",
+            "appointment_intent": "yes",
+            "consultation_type": "in-person",
+            "time_urgency": "today",
+            "booking_readiness": "yes"
+        },
+        "score": "Warm",
+        "outcome": "lost",
+        "timestamp": "2026-03-10 12:21:25.585370"
+    },
+    {
+        "patient_name": "Sanjay R",
+        "contact": "92234234223",
+        "service": "General",
+        "action": "nurture_sequence",
+        "next_message_in_days": 2,
+        "status": "nurture_active"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "duration",
+            "pain",
+            "impact",
+            "worsening",
+            "red_flag",
+            "prior_history",
+            "current_treatment",
+            "insurance",
+            "appointment_intent",
+            "consultation_type",
+            "time_urgency",
+            "booking_readiness"
+        ],
+        "answers": {
+            "name": "Sanjay R",
+            "phone": "92234234223",
+            "symptom_detail": "skin rash",
+            "severity": "mild",
+            "duration": "weeks",
+            "pain": "low",
+            "impact": "no",
+            "worsening": "no",
+            "red_flag": "no",
+            "prior_history": "yes",
+            "current_treatment": "yes",
+            "insurance": "no",
+            "appointment_intent": "no",
+            "consultation_type": "online",
+            "time_urgency": "this week",
+            "booking_readiness": "no"
+        },
+        "score": "Cold",
+        "outcome": "lost",
+        "timestamp": "2026-03-10 12:22:28.549420"
+    },
+    {
+        "booking_id": "CONF-L001-Ani-2-10:00 AM",
+        "patient_name": "Suvan",
+        "contact": "23423423423",
+        "doctor_name": "Dr. Anita Rao",
+        "service_provided": "General",
+        "date": "2026-03-12",
+        "time": "10:00 AM",
+        "status": "upcoming"
+    },
+    {
+        "lead_id": "L001",
+        "service": "General",
+        "question_path": [
+            "name",
+            "phone",
+            "symptom_detail",
+            "severity",
+            "duration",
+            "pain",
+            "impact",
+            "worsening",
+            "red_flag",
+            "prior_history",
+            "current_treatment",
+            "insurance",
+            "appointment_intent",
+            "consultation_type",
+            "time_urgency",
+            "booking_readiness"
+        ],
+        "answers": {
+            "name": "Suvan",
+            "phone": "23423423423",
+            "symptom_detail": "Severe chest pain",
+            "severity": "severe",
+            "duration": "hours",
+            "pain": "high",
+            "impact": "cannot",
+            "worsening": "yes",
+            "red_flag": "yes",
+            "prior_history": "yes",
+            "current_treatment": "no",
+            "insurance": "yes",
+            "appointment_intent": "yes",
+            "consultation_type": "in-person",
+            "time_urgency": "today",
+            "booking_readiness": "yes"
+        },
+        "score": "Hot",
+        "outcome": "converted",
+        "timestamp": "2026-03-10 12:31:06.558850"
+    }
+]
