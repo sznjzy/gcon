@@ -397,3 +397,8 @@ This project was built for **GLITCHCON 2.0** hackathon and is intended for educa
 | Name | Reg No |
 |------|--------|
 | Sanjay R | 23BPS1119 |
+| Sahana R | 23BPS1190 |
+| Sanjana R | 23BPS1155 |
+| Suvan B | 23BPS1023 |
+| Sowmya P | 23BPS1102 |
+| Gurhoshiaa S | 23BPS1006 |
